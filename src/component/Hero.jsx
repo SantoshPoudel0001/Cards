@@ -34,7 +34,7 @@ const Hero = () => {
             <div className="mb-8"></div>
           </div>
         </div>
-        <div className="h-screen flex justify-center">
+        <div className="h-screen  justify-cente hidden sm:flex">
           <img
             src={adcard}
             alt=""

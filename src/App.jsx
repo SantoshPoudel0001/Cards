@@ -11,6 +11,8 @@ import Paragraph from "./component/paragraph";
 
 import Hero from "./component/Hero";
 import Herozoho from "./component/Herozoho";
+import Workspace from "./component/Workspace";
+import CloudSolution from "./component/CloudSolution";
 
 function App() {
   return (
@@ -149,6 +151,8 @@ function App() {
 
 <Hero/>
 <Herozoho/>
+<Workspace/>
+<CloudSolution/>
     </div>
     
   );
